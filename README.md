@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-<!--
-**SHIVAMXD18/SHIVAMXD18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p data-importer="text" align="left">Hey, I’m Shivam 👋</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<p data-importer="text" align="left">💻 Coder | Developer | Tech Enthusiast<br>🚀 Turning ideas into code and building something new every day.<br>🧠 Learning. Creating. Improving.<br>⚡ "Code. Create. Repeat."</p>
+
+###
+
+<h2 data-importer="text" align="left">Technologies I work with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
