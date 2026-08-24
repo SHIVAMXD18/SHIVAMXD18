@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Technologies I work with</h2>
+<h2 data-importer="text" align="left">Technologies i am learning now. </h2>
 
 ###
 
